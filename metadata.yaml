@@ -1,0 +1,28 @@
+_repo: Il-busto-d-oro-romanzo_75787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tomei, Girolamo Clemente
+    gutenberg_agent_id: '58143'
+    url: http://www.gutenberg.org/2009/agents/58143
+description: ''
+gutenberg_issued: '2025-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75787'
+language: it
+pgterms:marc904: http://www.braidense.it/dire/bustodoro1.pdf http://www.braidense.it/dire/bustodoro2.pdf
+pgterms:marc905: 20240401041128tomei
+pgterms:marc906: '1904'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bVentaglio, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Il busto d''oro : romanzo'
+url: http://www.gutenberg.org/ebooks/75787
