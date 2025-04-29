@@ -1,11 +1,16 @@
 _repo: Il-busto-d-oro-romanzo_75787
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75787-h/images/cover.jpg
 creator:
   author:
     agent_name: Tomei, Girolamo Clemente
     gutenberg_agent_id: '58143'
     url: http://www.gutenberg.org/2009/agents/58143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75787#Il-busto-d-oro-romanzo
 gutenberg_issued: '2025-04-04'
 gutenberg_type: Text
 identifiers:
